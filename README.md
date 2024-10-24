@@ -11,9 +11,9 @@
 
 ## Screenshots 
 <p float="center">
- <img src="./images/screenshots/edit.png" width="200"/>
- <img src="./images/screenshots/homeblank.png" width="200"/>
- <img src="./images/screenshots/home.png" width="200"/>
+ <img src="./screenshots/edit.png" width="200"/>
+ <img src="./screenshots/homeblank.png" width="200"/>
+ <img src="./screenshots/home.png" width="200"/>
 </p>
 
 ## Tech Stack 
