@@ -11,9 +11,9 @@
 
 ## Screenshots 
 <p float="center">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/edit.png"  height="450px" width="225px">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/homeblank.png"  height="450px" width="225px">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/home.png"  height="450px" width="225px">
+ <img src="./images/screenshots/edit.png"  height="450px" width="225px">
+ <img src="./images/screenshots/homeblank.png"  height="450px" width="225px">
+ <img src="./images/screenshots/home.png"  height="450px" width="225px">
 </p>
 
 ## Tech Stack 
