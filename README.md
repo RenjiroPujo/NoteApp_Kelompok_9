@@ -11,9 +11,9 @@
 
 ## Screenshots 
 <p float="center">
- <img src="./images/screenshots/edit.png"  height="450px" width="225px">
- <img src="./images/screenshots/homeblank.png"  height="450px" width="225px">
- <img src="./images/screenshots/home.png"  height="450px" width="225px">
+ <img src="./images/screenshots/edit.png" alt="Logo Project" width="200"/>
+ <img src="./images/screenshots/homeblank.png" alt="Logo Project" width="200"/>
+ <img src="./images/screenshots/home.png" alt="Logo Project" width="200"/>
 </p>
 
 ## Tech Stack 
